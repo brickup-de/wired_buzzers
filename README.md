@@ -18,3 +18,10 @@ Coding for a wired buzzer system, usable for games or quizzes. Features:
 
 **Customizable**
 * Pins, tones, countdown length and more are defined in the main *.ino file on the top
+
+**LEGO case for arcade buttons**
+* Building instructions [as a PDF here](https://github.com/brickup-de/wired_buzzers/blob/main/wired-buzzer-lego-box-instructions.pdf)
+* Repo also contains [3D model file](https://github.com/brickup-de/wired_buzzers/blob/main/wired-buzzer-lego-box.ldr)
+
+![3D render of LEGO buzzer case](https://github.com/brickup-de/wired_buzzers/blob/main/wired-buzzer-lego-box.png?raw=true)
+
